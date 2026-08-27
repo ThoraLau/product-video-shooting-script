@@ -1,0 +1,8 @@
+interface:
+  display_name: "Product Video Shooting Script"
+  short_description: "Build conversion-focused product shooting scripts"
+  brand_color: "#16A6C9"
+  default_prompt: "Use $product-video-shooting-script to turn my product package into a Chinese production script with natural English voiceover and a matching Excel workbook."
+
+policy:
+  allow_implicit_invocation: true
